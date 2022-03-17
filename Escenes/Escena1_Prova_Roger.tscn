@@ -6,9 +6,10 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Personatge" parent="." instance=ExtResource( 1 )]
+position = Vector2( 513, 287 )
 
 [node name="Zona" parent="." instance=ExtResource( 2 )]
-position = Vector2( 822, 292 )
+position = Vector2( 854, 305 )
 
 [node name="Zona2" parent="." instance=ExtResource( 2 )]
 position = Vector2( 184, 290 )
